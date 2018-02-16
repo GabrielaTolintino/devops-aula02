@@ -1,4 +1,5 @@
 # devops-aula02
 Killian Jones
-Emma Swan
+Dean Winchester
 Mary Margaret
+Sam Winchester
